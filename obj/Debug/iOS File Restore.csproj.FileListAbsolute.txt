@@ -1,0 +1,11 @@
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\bin\Debug\iOS File Restore.exe.config
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\bin\Debug\iOS File Restore.exe
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\bin\Debug\iOS File Restore.pdb
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\bin\Debug\WinSCPnet.dll
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS File Restore.csprojResolveAssemblyReference.cache
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS_File_Restore.Main.resources
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS_File_Restore.Properties.Resources.resources
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS File Restore.csproj.GenerateResource.Cache
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS File Restore.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS File Restore.exe
+C:\Users\josep\OneDrive\Documents\Visual Studio 2017\Projects\iOS File Restore\iOS File Restore\obj\Debug\iOS File Restore.pdb
